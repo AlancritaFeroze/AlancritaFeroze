@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlancritaFeroze
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently exploring a little bit on machine learning and programming using python!
